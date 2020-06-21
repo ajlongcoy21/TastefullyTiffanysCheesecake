@@ -6,7 +6,7 @@
         "name": "Original Cheesecake",
         "description": "The One that Started it All! Our Famous Creamy Cheesecake with a Graham Cracker Crust and Sour Cream Topping.",
         "price": 25,
-        "imagePath": "/img/default_cheesecake_image.png"
+        "imagePath": "/TastefullyTiffanysCheesecakes/img/default_cheesecake_image.png"
     },
     {
         "type": "originalFruit",
@@ -15,7 +15,7 @@
         "name": "Blueberry Cheesecake",
         "description": "The One that Started it All! Our Famous Creamy Cheesecake with a Graham Cracker Crust and Sour Cream Topping.",
         "price": 30,
-        "imagePath": "/img/default_cheesecake_image.png"
+        "imagePath": "/TastefullyTiffanysCheesecakes/img/default_cheesecake_image.png"
     },
     {
         "type": "originalFruit",
@@ -24,7 +24,7 @@
         "name": "Coconut Key Lime Cheesecake",
         "description": "The One that Started it All! Our Famous Creamy Cheesecake with a Graham Cracker Crust and Sour Cream Topping.",
         "price": 30,
-        "imagePath": "/img/Fruit_Cheesecake_CoconutKeyLime.jpg"
+        "imagePath": "/TastefullyTiffanysCheesecakes/img/Fruit_Cheesecake_CoconutKeyLime.jpg"
     },
     {
         "type": "originalFruit",
@@ -33,7 +33,7 @@
         "name": "Strawberry Cheesecake",
         "description": "The One that Started it All! Our Famous Creamy Cheesecake with a Graham Cracker Crust and Sour Cream Topping.",
         "price": 30,
-        "imagePath": "/img/Fruit_Cheesecake_Strawberry.jpg"
+        "imagePath": "/TastefullyTiffanysCheesecakes/img/Fruit_Cheesecake_Strawberry.jpg"
     },
     {
         "type": "originalFruit",
@@ -42,7 +42,7 @@
         "name": "Lemon Cheesecake",
         "description": "The One that Started it All! Our Famous Creamy Cheesecake with a Graham Cracker Crust and Sour Cream Topping.",
         "price": 30,
-        "imagePath": "/img/Fruit_Cheesecake_Lemon.jpg"
+        "imagePath": "/TastefullyTiffanysCheesecakes/img/Fruit_Cheesecake_Lemon.jpg"
     },
     {
         "type": "originalFruit",
@@ -51,7 +51,7 @@
         "name": "Mixed Berry Cheesecake",
         "description": "The One that Started it All! Our Famous Creamy Cheesecake with a Graham Cracker Crust and Sour Cream Topping.",
         "price": 30,
-        "imagePath": "/img/Fruit_Cheesecake_MixBerry.jpg"
+        "imagePath": "/TastefullyTiffanysCheesecakes/img/Fruit_Cheesecake_MixBerry.jpg"
     },
     {
         "type": "specialty",
@@ -60,7 +60,7 @@
         "name": "Carmel Cheesecake",
         "description": "The One that Started it All! Our Famous Creamy Cheesecake with a Graham Cracker Crust and Sour Cream Topping.",
         "price": 32,
-        "imagePath": "/img/Specialty_Cheesecake_DulceDeLeche.jpg"
+        "imagePath": "/TastefullyTiffanysCheesecakes/img/Specialty_Cheesecake_DulceDeLeche.jpg"
     },
     {
         "type": "specialty",
@@ -69,7 +69,7 @@
         "name": "Carmel Pecan Turtle Cheesecake",
         "description": "The One that Started it All! Our Famous Creamy Cheesecake with a Graham Cracker Crust and Sour Cream Topping.",
         "price": 32,
-        "imagePath": "/img/Specialty_Cheesecake_CarmelPecanTurtle.jpg"
+        "imagePath": "/TastefullyTiffanysCheesecakes/img/Specialty_Cheesecake_CarmelPecanTurtle.jpg"
     },
     {
         "type": "specialty",
@@ -78,7 +78,7 @@
         "name": "Ghiradelli Chocolate Cheesecake",
         "description": "The One that Started it All! Our Famous Creamy Cheesecake with a Graham Cracker Crust and Sour Cream Topping.",
         "price": 32,
-        "imagePath": "/img/Specialty_Cheesecake_GhiradelliChocolate.jpg"
+        "imagePath": "/TastefullyTiffanysCheesecakes/img/Specialty_Cheesecake_GhiradelliChocolate.jpg"
     },
     {
         "type": "specialty",
@@ -87,7 +87,7 @@
         "name": "Ghiradelli Chocolate & Almond Cheesecake",
         "description": "The One that Started it All! Our Famous Creamy Cheesecake with a Graham Cracker Crust and Sour Cream Topping.",
         "price": 32,
-        "imagePath": "/img/Specialty_Cheesecake_GhiradelliChocolateAlmond.jpg"
+        "imagePath": "/TastefullyTiffanysCheesecakes/img/Specialty_Cheesecake_GhiradelliChocolateAlmond.jpg"
     },
     {
         "type": "specialty",
@@ -96,7 +96,7 @@
         "name": "Oreo Cheesecake",
         "description": "The One that Started it All! Our Famous Creamy Cheesecake with a Graham Cracker Crust and Sour Cream Topping.",
         "price": 32,
-        "imagePath": "/img/Specialty_Cheesecake_Oreo.jpg"
+        "imagePath": "/TastefullyTiffanysCheesecakes/img/Specialty_Cheesecake_Oreo.jpg"
     },
     {
         "type": "specialty",
@@ -105,7 +105,7 @@
         "name": "Reese's Cheesecake",
         "description": "The One that Started it All! Our Famous Creamy Cheesecake with a Graham Cracker Crust and Sour Cream Topping.",
         "price": 32,
-        "imagePath": "/img/Specialty_Cheesecake_Reeses.jpg"
+        "imagePath": "/TastefullyTiffanysCheesecakes/img/Specialty_Cheesecake_Reeses.jpg"
     },
     {
         "type": "specialty",
@@ -114,6 +114,6 @@
         "name": "Tennessee Whisky Cheesecake",
         "description": "The One that Started it All! Our Famous Creamy Cheesecake with a Graham Cracker Crust and Sour Cream Topping.",
         "price": 32,
-        "imagePath": "/img/Specialty_Cheesecake_TennesseeWhisky.jpg"
+        "imagePath": "/TastefullyTiffanysCheesecakes/img/Specialty_Cheesecake_TennesseeWhisky.jpg"
     }
 ]

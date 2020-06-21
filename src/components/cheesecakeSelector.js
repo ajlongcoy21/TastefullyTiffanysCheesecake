@@ -127,7 +127,6 @@ export default class CheesecakeSelector extends React.Component {
                         <option value="originalCheesecakeFruit">Original Cheesecake + Fruit</option>
                         <option value="specialtyCheesecake">Specialty Cheesecake</option>
                     </select>
-                    <textarea value={this.state.specialRequest} placeholder="Speical Request..." onChange={this.handleChange4} />
                     <label className="cheesecakeSelector">
                         Fruit Topping:
                     </label>
@@ -140,6 +139,7 @@ export default class CheesecakeSelector extends React.Component {
                         <option value="mixedberry">Mixed Berry</option>
                     </select>
                     <br />
+                    <textarea value={this.state.specialRequest} placeholder="Speical Request..." onChange={this.handleChange4} />
                 </Fragment>  
             );
         }
@@ -161,7 +161,6 @@ export default class CheesecakeSelector extends React.Component {
                         <option value="originalCheesecakeFruit">Original Cheesecake + Fruit</option>
                         <option value="specialtyCheesecake">Specialty Cheesecake</option>
                     </select>
-                    <textarea value={this.state.specialRequest} placeholder="Speical Request..." onChange={this.handleChange4} />
                     <label className="cheesecakeSelector">
                         Speciality Flavor:
                     </label>
@@ -175,6 +174,7 @@ export default class CheesecakeSelector extends React.Component {
                         <option value="vanillabean">Vanilla Bean</option>
                         </select>
                     <br />
+                    <textarea value={this.state.specialRequest} placeholder="Speical Request..." onChange={this.handleChange4} />
                 </Fragment>  
             );
         }
