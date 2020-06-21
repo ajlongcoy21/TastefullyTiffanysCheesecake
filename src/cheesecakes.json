@@ -1,0 +1,119 @@
+[
+    {
+        "type": "original",
+        "fruit": "",
+        "specialty": "",
+        "name": "Original Cheesecake",
+        "description": "The One that Started it All! Our Famous Creamy Cheesecake with a Graham Cracker Crust and Sour Cream Topping.",
+        "price": 25,
+        "imagePath": "/img/default_cheesecake_image.png"
+    },
+    {
+        "type": "originalFruit",
+        "fruit": "Blueberry",
+        "specialty": "",
+        "name": "Blueberry Cheesecake",
+        "description": "The One that Started it All! Our Famous Creamy Cheesecake with a Graham Cracker Crust and Sour Cream Topping.",
+        "price": 30,
+        "imagePath": "/img/default_cheesecake_image.png"
+    },
+    {
+        "type": "originalFruit",
+        "fruit": "CoconutKeyLime",
+        "specialty": "",
+        "name": "Coconut Key Lime Cheesecake",
+        "description": "The One that Started it All! Our Famous Creamy Cheesecake with a Graham Cracker Crust and Sour Cream Topping.",
+        "price": 30,
+        "imagePath": "/img/Fruit_Cheesecake_CoconutKeyLime.jpg"
+    },
+    {
+        "type": "originalFruit",
+        "fruit": "Strawberry",
+        "specialty": "",
+        "name": "Strawberry Cheesecake",
+        "description": "The One that Started it All! Our Famous Creamy Cheesecake with a Graham Cracker Crust and Sour Cream Topping.",
+        "price": 30,
+        "imagePath": "/img/Fruit_Cheesecake_Strawberry.jpg"
+    },
+    {
+        "type": "originalFruit",
+        "fruit": "Lemon",
+        "specialty": "",
+        "name": "Lemon Cheesecake",
+        "description": "The One that Started it All! Our Famous Creamy Cheesecake with a Graham Cracker Crust and Sour Cream Topping.",
+        "price": 30,
+        "imagePath": "/img/Fruit_Cheesecake_Lemon.jpg"
+    },
+    {
+        "type": "originalFruit",
+        "fruit": "Strawberry, Blackberry, Blueberry",
+        "specialty": "",
+        "name": "Mixed Berry Cheesecake",
+        "description": "The One that Started it All! Our Famous Creamy Cheesecake with a Graham Cracker Crust and Sour Cream Topping.",
+        "price": 30,
+        "imagePath": "/img/Fruit_Cheesecake_MixBerry.jpg"
+    },
+    {
+        "type": "specialty",
+        "fruit": "",
+        "specialty": "Carmel",
+        "name": "Carmel Cheesecake",
+        "description": "The One that Started it All! Our Famous Creamy Cheesecake with a Graham Cracker Crust and Sour Cream Topping.",
+        "price": 32,
+        "imagePath": "/img/Specialty_Cheesecake_DulceDeLeche.jpg"
+    },
+    {
+        "type": "specialty",
+        "fruit": "",
+        "specialty": "Carmel Pecan Turtle",
+        "name": "Carmel Pecan Turtle Cheesecake",
+        "description": "The One that Started it All! Our Famous Creamy Cheesecake with a Graham Cracker Crust and Sour Cream Topping.",
+        "price": 32,
+        "imagePath": "/img/Specialty_Cheesecake_CarmelPecanTurtle.jpg"
+    },
+    {
+        "type": "specialty",
+        "fruit": "",
+        "specialty": "Ghiradelli Chocolate",
+        "name": "Ghiradelli Chocolate Cheesecake",
+        "description": "The One that Started it All! Our Famous Creamy Cheesecake with a Graham Cracker Crust and Sour Cream Topping.",
+        "price": 32,
+        "imagePath": "/img/Specialty_Cheesecake_GhiradelliChocolate.jpg"
+    },
+    {
+        "type": "specialty",
+        "fruit": "",
+        "specialty": "Ghiradelli Chocolate",
+        "name": "Ghiradelli Chocolate & Almond Cheesecake",
+        "description": "The One that Started it All! Our Famous Creamy Cheesecake with a Graham Cracker Crust and Sour Cream Topping.",
+        "price": 32,
+        "imagePath": "/img/Specialty_Cheesecake_GhiradelliChocolateAlmond.jpg"
+    },
+    {
+        "type": "specialty",
+        "fruit": "",
+        "specialty": "Oreo",
+        "name": "Oreo Cheesecake",
+        "description": "The One that Started it All! Our Famous Creamy Cheesecake with a Graham Cracker Crust and Sour Cream Topping.",
+        "price": 32,
+        "imagePath": "/img/Specialty_Cheesecake_Oreo.jpg"
+    },
+    {
+        "type": "specialty",
+        "fruit": "",
+        "specialty": "Reeses",
+        "name": "Reese's Cheesecake",
+        "description": "The One that Started it All! Our Famous Creamy Cheesecake with a Graham Cracker Crust and Sour Cream Topping.",
+        "price": 32,
+        "imagePath": "/img/Specialty_Cheesecake_Reeses.jpg"
+    },
+    {
+        "type": "specialty",
+        "fruit": "",
+        "specialty": "Tennessee Whisky",
+        "name": "Tennessee Whisky Cheesecake",
+        "description": "The One that Started it All! Our Famous Creamy Cheesecake with a Graham Cracker Crust and Sour Cream Topping.",
+        "price": 32,
+        "imagePath": "/img/Specialty_Cheesecake_TennesseeWhisky.jpg"
+    }
+]
