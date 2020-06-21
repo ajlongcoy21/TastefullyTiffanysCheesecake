@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/TastefullyTiffanysCheesecakes/static/css/main.a3b384a8.chunk.css",
+    "main.js": "/TastefullyTiffanysCheesecakes/static/js/main.1339dab9.chunk.js",
+    "main.js.map": "/TastefullyTiffanysCheesecakes/static/js/main.1339dab9.chunk.js.map",
+    "runtime-main.js": "/TastefullyTiffanysCheesecakes/static/js/runtime-main.0983450c.js",
+    "runtime-main.js.map": "/TastefullyTiffanysCheesecakes/static/js/runtime-main.0983450c.js.map",
+    "static/js/2.c1696255.chunk.js": "/TastefullyTiffanysCheesecakes/static/js/2.c1696255.chunk.js",
+    "static/js/2.c1696255.chunk.js.map": "/TastefullyTiffanysCheesecakes/static/js/2.c1696255.chunk.js.map",
+    "index.html": "/TastefullyTiffanysCheesecakes/index.html",
+    "precache-manifest.cccbabe2fac0f4edee481cdfc3a231c6.js": "/TastefullyTiffanysCheesecakes/precache-manifest.cccbabe2fac0f4edee481cdfc3a231c6.js",
+    "service-worker.js": "/TastefullyTiffanysCheesecakes/service-worker.js",
+    "static/css/main.a3b384a8.chunk.css.map": "/TastefullyTiffanysCheesecakes/static/css/main.a3b384a8.chunk.css.map",
+    "static/js/2.c1696255.chunk.js.LICENSE.txt": "/TastefullyTiffanysCheesecakes/static/js/2.c1696255.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0983450c.js",
+    "static/js/2.c1696255.chunk.js",
+    "static/css/main.a3b384a8.chunk.css",
+    "static/js/main.1339dab9.chunk.js"
+  ]
+}
