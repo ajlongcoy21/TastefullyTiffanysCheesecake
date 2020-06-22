@@ -162,15 +162,15 @@ export default class CheesecakeSelector extends React.Component {
                         <option value="specialtyCheesecake">Specialty Cheesecake</option>
                     </select>
                     <label className="cheesecakeSelector">
-                        Speciality Flavor:
+                        Specialty Flavor:
                     </label>
                     <select value={this.state.value3} onChange={this.handleChange3}>
                         <option value="carmel">Carmel</option>
-                        <option value="carmelpecanturtle">Carmel Pecan Turle</option>
+                        <option value="carmelpecanturtle">Carmel Pecan Turtle</option>
                         <option value="ghiradellichocolate">Chiradelli Chocolate</option>
                         <option value="oreo">Oreo</option>
                         <option value="reeses">Resses</option>
-                        <option value="tennesseewhisky">Tennessee Whisky</option>
+                        <option value="tennesseewhisky">Tennessee Whiskey</option>
                         <option value="vanillabean">Vanilla Bean</option>
                         </select>
                     <br />
