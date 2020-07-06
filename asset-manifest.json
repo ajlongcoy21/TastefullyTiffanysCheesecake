@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/TastefullyTiffanysCheesecakes/static/css/main.d8d39683.chunk.css",
-    "main.js": "/TastefullyTiffanysCheesecakes/static/js/main.8285508a.chunk.js",
-    "main.js.map": "/TastefullyTiffanysCheesecakes/static/js/main.8285508a.chunk.js.map",
-    "runtime-main.js": "/TastefullyTiffanysCheesecakes/static/js/runtime-main.0983450c.js",
-    "runtime-main.js.map": "/TastefullyTiffanysCheesecakes/static/js/runtime-main.0983450c.js.map",
-    "static/css/2.a1b7a17e.chunk.css": "/TastefullyTiffanysCheesecakes/static/css/2.a1b7a17e.chunk.css",
-    "static/js/2.ca85014c.chunk.js": "/TastefullyTiffanysCheesecakes/static/js/2.ca85014c.chunk.js",
-    "static/js/2.ca85014c.chunk.js.map": "/TastefullyTiffanysCheesecakes/static/js/2.ca85014c.chunk.js.map",
-    "index.html": "/TastefullyTiffanysCheesecakes/index.html",
-    "precache-manifest.486a74950872328ed0be4006bc495bd2.js": "/TastefullyTiffanysCheesecakes/precache-manifest.486a74950872328ed0be4006bc495bd2.js",
-    "service-worker.js": "/TastefullyTiffanysCheesecakes/service-worker.js",
-    "static/css/2.a1b7a17e.chunk.css.map": "/TastefullyTiffanysCheesecakes/static/css/2.a1b7a17e.chunk.css.map",
-    "static/css/main.d8d39683.chunk.css.map": "/TastefullyTiffanysCheesecakes/static/css/main.d8d39683.chunk.css.map",
-    "static/js/2.ca85014c.chunk.js.LICENSE.txt": "/TastefullyTiffanysCheesecakes/static/js/2.ca85014c.chunk.js.LICENSE.txt"
+    "main.css": "/ajlongcoy21/TastefullyTiffanysCheesecakes/static/css/main.af5dce3d.chunk.css",
+    "main.js": "/ajlongcoy21/TastefullyTiffanysCheesecakes/static/js/main.d30d2e3d.chunk.js",
+    "main.js.map": "/ajlongcoy21/TastefullyTiffanysCheesecakes/static/js/main.d30d2e3d.chunk.js.map",
+    "runtime-main.js": "/ajlongcoy21/TastefullyTiffanysCheesecakes/static/js/runtime-main.f5630c1c.js",
+    "runtime-main.js.map": "/ajlongcoy21/TastefullyTiffanysCheesecakes/static/js/runtime-main.f5630c1c.js.map",
+    "static/css/2.a1b7a17e.chunk.css": "/ajlongcoy21/TastefullyTiffanysCheesecakes/static/css/2.a1b7a17e.chunk.css",
+    "static/js/2.ca85014c.chunk.js": "/ajlongcoy21/TastefullyTiffanysCheesecakes/static/js/2.ca85014c.chunk.js",
+    "static/js/2.ca85014c.chunk.js.map": "/ajlongcoy21/TastefullyTiffanysCheesecakes/static/js/2.ca85014c.chunk.js.map",
+    "index.html": "/ajlongcoy21/TastefullyTiffanysCheesecakes/index.html",
+    "precache-manifest.7bb83649074325c787ab878bc0f4ce9c.js": "/ajlongcoy21/TastefullyTiffanysCheesecakes/precache-manifest.7bb83649074325c787ab878bc0f4ce9c.js",
+    "service-worker.js": "/ajlongcoy21/TastefullyTiffanysCheesecakes/service-worker.js",
+    "static/css/2.a1b7a17e.chunk.css.map": "/ajlongcoy21/TastefullyTiffanysCheesecakes/static/css/2.a1b7a17e.chunk.css.map",
+    "static/css/main.af5dce3d.chunk.css.map": "/ajlongcoy21/TastefullyTiffanysCheesecakes/static/css/main.af5dce3d.chunk.css.map",
+    "static/js/2.ca85014c.chunk.js.LICENSE.txt": "/ajlongcoy21/TastefullyTiffanysCheesecakes/static/js/2.ca85014c.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.0983450c.js",
+    "static/js/runtime-main.f5630c1c.js",
     "static/css/2.a1b7a17e.chunk.css",
     "static/js/2.ca85014c.chunk.js",
-    "static/css/main.d8d39683.chunk.css",
-    "static/js/main.8285508a.chunk.js"
+    "static/css/main.af5dce3d.chunk.css",
+    "static/js/main.d30d2e3d.chunk.js"
   ]
 }
