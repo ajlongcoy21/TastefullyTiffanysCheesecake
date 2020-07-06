@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/ajlongcoy21/TastefullyTiffanysCheesecakes/precache-manifest.1652fd70ae8a0fbd58f99c23ee503b1d.js"
+  "/TastefullyTiffanysCheesecakes/precache-manifest.ff65e4d5bdd2c4dda5cc9e8eb4cb198d.js"
 );
 
 self.addEventListener('message', (event) => {
@@ -33,7 +33,7 @@ workbox.core.clientsClaim();
 self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute(workbox.precaching.getCacheKeyForURL("/ajlongcoy21/TastefullyTiffanysCheesecakes/index.html"), {
+workbox.routing.registerNavigationRoute(workbox.precaching.getCacheKeyForURL("/TastefullyTiffanysCheesecakes/index.html"), {
   
   blacklist: [/^\/_/,/\/[^/?]+\.[^/]+$/],
 });
