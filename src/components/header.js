@@ -8,7 +8,7 @@ const Header = () => {
     // Display Header for the user
     return (
         <div className="topheader">
-            <img src="/img/TTC_LOGO.png"></img>
+            <img src="/TastefullyTiffanysCheesecakes/img/TTC_LOGO.png"></img>
         </div>
     );
 }
