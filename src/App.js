@@ -11,7 +11,7 @@ function App() {
     <BrowserRouter>
       <div className="App">
         <Switch>
-          <Route exact path="/TastefullyTiffanysCheesecakes/" component={HomePage}/>
+          <Route exact path="/TastefullyTiffanysCheesecakes" component={HomePage}/>
           <Route path="/TastefullyTiffanysCheesecakes/placeorder" component={OrderPage}/>
           <Route path="/TastefullyTiffanysCheesecakes/cheesecakes" component={CheesecakePage}/>
         </Switch>

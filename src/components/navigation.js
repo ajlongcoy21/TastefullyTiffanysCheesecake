@@ -10,7 +10,7 @@ const Navigation = () => {
     return (
         <div className="navigation">
             <ul>
-                <li className="active"><Link to="/TastefullyTiffanysCheesecakes/">Home</Link></li>
+                <li className="active"><Link to="/TastefullyTiffanysCheesecakes">Home</Link></li>
                 <li><Link to="/TastefullyTiffanysCheesecakes/cheesecakes">Cheesecakes</Link></li>
                 <li><Link to="/TastefullyTiffanysCheesecakes/placeorder">Order</Link></li>
             </ul>
