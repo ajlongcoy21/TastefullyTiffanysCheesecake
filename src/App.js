@@ -11,13 +11,17 @@ function App() {
     <BrowserRouter>
       <div className="App">
         <Switch>
-          <Route exact path="/TastefullyTiffanysCheesecakes" component={HomePage}/>
-          <Route path="/TastefullyTiffanysCheesecakes/placeorder" component={OrderPage}/>
-          <Route path="/TastefullyTiffanysCheesecakes/cheesecakes" component={CheesecakePage}/>
+          <Route exact path="/" component={HomePage}/>
+          <Route path="/placeorder" component={OrderPage}/>
+          <Route path="/cheesecakes" component={CheesecakePage}/>
         </Switch>
       </div>
     </BrowserRouter>
   );
 }
+
+{/* <Route exact path="/TastefullyTiffanysCheesecakes" component={HomePage}/>
+          <Route path="/TastefullyTiffanysCheesecakes/placeorder" component={OrderPage}/>
+          <Route path="/TastefullyTiffanysCheesecakes/cheesecakes" component={CheesecakePage}/> */}
 
 export default App;

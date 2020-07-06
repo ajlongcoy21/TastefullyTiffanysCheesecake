@@ -4,8 +4,10 @@ body
   font-family: Arial, Helvetica, sans-serif;
 
   /* Background Settings */
-  background-image: url('/TastefullyTiffanysCheesecakes/img/siteBackground4.jpg');
+  /* background-image: url('/TastefullyTiffanysCheesecakes/img/siteBackground4.jpg'); */
+  background-image: url('/img/siteBackground4.jpg');
   background-attachment: fixed;
+  background-color: black;
 }
 
 /* TOP HEADER CSS */
@@ -45,7 +47,57 @@ body
     
   }
 
-  .navigation ul
+  .footer
+  {
+    overflow: hidden;
+    background-color: #808080;
+
+    /* Border Settings */
+    border-top: 5px solid black;
+    border-bottom: 5px solid black;
+
+    /* Created Fixed Nav Bar*/
+    position: relative;
+    bottom: 0; 
+    width: 100%;
+    z-index: 500;
+
+    padding-right: 10px;
+
+    /* Display */
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    justify-content: center;
+    align-items: center;
+    
+  }
+
+  .footer div div
+  {
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .footer p
+  {
+    
+    color: white;
+    
+  }
+
+  .footer a.icons
+  {
+    /* flex-grow: 1; */
+    padding: 10px 10px;
+    /* text-align: right; */
+    margin-left: auto;
+    justify-self: flex-end;
+    color: white;
+  }
+
+  .navigation ul, .footer ul
   {
     /* List Style */
     list-style: none;
@@ -69,7 +121,7 @@ body
     color: white;
   }
 
-  .navigation ul li a
+  .navigation ul li a, .footer ul li a
   {
     display: block;
     text-decoration: none;
@@ -217,8 +269,15 @@ body
       border: 2px solid #15EFEF;
       border-radius: 2px;
     }
+
+    .paymentOption
+    {
+      width: 100%;
+      display: inline-block;
+      text-align: center;
+    }
   
-  @media (min-width: 600px) 
+  @media (min-width: 700px) 
   {
     form 
     {
@@ -261,7 +320,7 @@ body
     .zip
     {
       text-align: right;
-      grid-column: 8 / 9;
+      grid-column: 7 / 9;
     }
 
     #zip
@@ -349,6 +408,11 @@ body
       grid-column: 3 / 4;
     }
 
+    .paymentOption
+    {
+      grid-column: 3 / 8;
+    }
+
     hr
     {
       grid-column: 1 / 10;
@@ -356,6 +420,13 @@ body
       border: 2px solid #15EFEF;
       border-radius: 2px;
     }
+
+    .note
+    {
+      grid-column: 1 / 10;
+      text-align: left;
+    }
+
 
   }
 
@@ -366,6 +437,12 @@ body
     border: none;
     border-radius: 4px;
     background-color: #15EFEF;
+  }
+
+  select.state
+  {
+    overflow-y: scroll;
+    background-color: white;
   }
 
 
@@ -478,6 +555,20 @@ body
       max-width: 100%;
       vertical-align: middle;
       align-content: center;
+    }
+
+    .footer div
+    {
+      display: grid;
+      justify-content: left;
+      align-items: flex-start;
+      font-size: x-small;
+    }
+    .footer div div
+    {
+      justify-content: left;
+      align-items: center;
+      font-size: x-small;
     }
   }
 

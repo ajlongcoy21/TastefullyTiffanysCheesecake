@@ -1,11 +1,11 @@
 // Import supporting files
 import React from "react";
 
-// Create Navigation component
+// Create Intro component
 
 const Intro = () => {
    
-    // Display navigation for the user
+    // Display Intro for the user
     return (
         <div className="introContainer">
             <div className="intro">
